@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Ejercicio y Entrenamiento</title>
+</head>
+<body>
+    <header>
+        <h1>Ejercicio y Entrenamiento</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">Acerca de</a></li>
+                <li><a href="#exercises">Ejercicios</a></li>
+                <li><a href="#routines">Rutinas</a></li>
+                <li><a href="#contact">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="about">
+        <h2>Acerca de Nosotros</h2>
+        <p>Bienvenidos a nuestra página dedicada a proporcionar información sobre ejercicio físico, entrenamiento de pesas, ejercicios en casa y más. Nuestro objetivo es ayudarte a alcanzar tus metas de fitness.</p>
+    </section>
+    
+    <section id="exercises">
+        <h2>Ejercicios</h2>
+        <!-- Aquí podrías listar diferentes ejercicios con descripciones -->
+    </section>
+    
+    <section id="routines">
+        <h2>Rutinas</h2>
+        <p>Descarga rutinas predefinidas o personalizadas por un costo extra.</p>
+        <a href="personalized_routines.html">Rutinas Personalizadas</a>
+    </section>
+    
+    <section id="contact">
+        <h2>Contacto</h2>
+        <p>Si tienes preguntas o deseas obtener una rutina personalizada, contáctanos.</p>
+    </section>
+    
+    <footer>
+
+        <p>&copy; 2023 Ejercicio y Entrenamiento</p>
+    </footer>
+</body>
+</html>
